@@ -1,0 +1,141 @@
+id,name,brand,category,type,price,description
+1,HP Victus 15 Gaming Laptop,HP,Laptop,Gaming Laptop,74999,Intel Core i5 13th Gen 16GB RAM 512GB SSD RTX 4050
+2,Lenovo LOQ Gaming Laptop,Lenovo,Laptop,Gaming Laptop,79999,Intel Core i5 16GB RAM 512GB SSD RTX 4050
+3,Dell Inspiron 15,Dell,Laptop,Student Laptop,58999,Intel Core i5 16GB RAM 512GB SSD Full HD display
+4,Apple MacBook Air M3,Apple,Laptop,Ultrabook,99999,Apple M3 chip 8GB RAM 256GB SSD lightweight design
+5,ASUS Vivobook 16,ASUS,Laptop,Everyday Laptop,64999,Intel Core i5 16GB RAM 512GB SSD 16 inch display
+6,Acer Aspire 5,Acer,Laptop,Student Laptop,54999,Intel Core i5 16GB RAM 512GB SSD
+7,MSI Katana 15,MSI,Laptop,Gaming Laptop,89999,Intel Core i7 16GB RAM 1TB SSD RTX 4060
+8,Samsung Galaxy Book4,Samsung,Laptop,Business Laptop,72999,Intel Core 5 16GB RAM 512GB SSD
+9,Apple iPhone 15,Apple,Smartphone,Premium Phone,69999,128GB storage A16 Bionic chip dual camera
+10,Samsung Galaxy S24,Samsung,Smartphone,Flagship Phone,74999,256GB storage AMOLED display triple camera
+11,OnePlus 12,OnePlus,Smartphone,Flagship Phone,64999,Snapdragon processor 12GB RAM 256GB storage
+12,Google Pixel 8a,Google,Smartphone,Camera Phone,52999,Tensor processor 8GB RAM advanced camera
+13,Xiaomi Redmi Note 13 Pro,Xiaomi,Smartphone,Budget Phone,24999,8GB RAM 256GB storage AMOLED display
+14,Nothing Phone 2a,Nothing,Smartphone,Midrange Phone,23999,8GB RAM 128GB storage AMOLED display
+15,Realme GT 6,Realme,Smartphone,Gaming Phone,39999,Snapdragon processor 12GB RAM 256GB storage
+16,Samsung Galaxy A55,Samsung,Smartphone,Midrange Phone,39999,8GB RAM 128GB storage AMOLED display
+17,Apple iPad 10th Gen,Apple,Tablet,Premium Tablet,39999,10.9 inch display A14 chip 64GB storage
+18,Samsung Galaxy Tab S9 FE,Samsung,Tablet,Study Tablet,34999,10.9 inch display 6GB RAM 128GB storage
+19,OnePlus Pad Go,OnePlus,Tablet,Budget Tablet,19999,11.35 inch display 8GB RAM 128GB storage
+20,Lenovo Tab M11,Lenovo,Tablet,Study Tablet,17999,11 inch display 8GB RAM 128GB storage
+21,Sony WH-1000XM5,Sony,Headphones,Noise Cancelling,29999,Wireless over-ear headphones with active noise cancellation
+22,Apple AirPods Pro 2,Apple,Earbuds,Noise Cancelling,24999,Wireless earbuds with active noise cancellation
+23,Samsung Galaxy Buds2 Pro,Samsung,Earbuds,Premium Earbuds,14999,Wireless earbuds with ANC and high quality audio
+24,JBL Tune 770NC,JBL,Headphones,Budget Noise Cancelling,6999,Wireless headphones with ANC and long battery life
+25,boAt Rockerz 450,boAt,Headphones,Budget Headphones,1499,Wireless headphones with long battery life
+26,Canon EOS R50,Canon,Camera,Mirrorless Camera,64999,24MP mirrorless camera with 4K video recording
+27,Sony Alpha ZV-E10,Sony,Camera,Vlogging Camera,59999,24MP mirrorless camera designed for content creators
+28,Nikon Z50,Nikon,Camera,Mirrorless Camera,79999,20.9MP mirrorless camera with 4K video
+29,GoPro HERO12 Black,GoPro,Action Camera,Action Camera,39999,5.3K video image stabilization waterproof design
+30,Apple Watch Series 9,Apple,Smartwatch,Premium Smartwatch,39999,GPS smartwatch with health and fitness tracking
+31,Samsung Galaxy Watch6,Samsung,Smartwatch,Fitness Smartwatch,24999,AMOLED smartwatch with health monitoring
+32,Noise ColorFit Pro 5,Noise,Smartwatch,Budget Smartwatch,3999,AMOLED display fitness tracking Bluetooth calling
+33,boAt Storm Call,boAt,Smartwatch,Budget Smartwatch,1999,Fitness tracking calling heart rate monitoring
+34,LG UltraGear 27GN800,LG,Monitor,Gaming Monitor,27999,27 inch QHD IPS gaming monitor 144Hz
+35,Samsung Odyssey G5,Samsung,Monitor,Gaming Monitor,29999,27 inch QHD curved gaming monitor 144Hz
+36,Dell UltraSharp U2723QE,Dell,Monitor,Professional Monitor,49999,27 inch 4K USB-C monitor for professional work
+37,Acer Nitro VG240Y,Acer,Monitor,Budget Gaming Monitor,12999,24 inch Full HD gaming monitor 165Hz
+38,Logitech MX Keys S,Logitech,Keyboard,Wireless Keyboard,9999,Wireless keyboard for productivity
+39,Redragon K552,Redragon,Keyboard,Gaming Keyboard,2999,Mechanical gaming keyboard with RGB lighting
+40,Logitech MX Master 3S,Logitech,Mouse,Productivity Mouse,8999,Wireless ergonomic mouse with precision tracking
+41,Razer DeathAdder V3,Razer,Mouse,Gaming Mouse,6999,Lightweight gaming mouse with high precision sensor
+42,Sony Bravia 55 inch 4K TV,Sony,Television,4K Smart TV,74999,55 inch 4K HDR smart television
+43,LG 55 inch OLED TV,LG,Television,OLED TV,99999,55 inch 4K OLED smart television
+44,Samsung Crystal 4K 50 inch TV,Samsung,Television,4K Smart TV,44999,50 inch 4K smart television with HDR
+45,TCL 43 inch 4K Smart TV,TCL,Television,Budget Smart TV,29999,43 inch 4K smart television
+46,JBL Flip 6,JBL,Speaker,Portable Speaker,9999,Portable Bluetooth speaker with waterproof design
+47,Sony SRS-XB100,Sony,Speaker,Portable Speaker,4999,Compact Bluetooth speaker with long battery life
+48,boAt Aavante Bar 1500,boAt,Soundbar,Budget Soundbar,4999,Bluetooth soundbar for TV and home entertainment
+49,Samsung T7 Portable SSD 1TB,Samsung,Storage,External SSD,9999,1TB portable USB-C external SSD
+50,SanDisk Ultra 128GB,SanDisk,Storage,Memory Card,999,128GB microSD memory card
+51,WD Elements 2TB,Western Digital,Storage,External HDD,6499,2TB portable external hard drive
+52,HP Smart Tank 589,HP,Printer,Ink Tank Printer,15999,Wireless color ink tank multifunction printer
+53,Canon Pixma G3770,Canon,Printer,Ink Tank Printer,13999,Wireless color printer with scanner and copier
+54,TP-Link Archer C6,TP-Link,Router,WiFi Router,2999,Dual-band AC1200 WiFi router
+55,TP-Link Archer AX55,TP-Link,Router,WiFi 6 Router,6999,WiFi 6 dual-band router with high speed connectivity
+56,Apple USB-C Charger 20W,Apple,Charger,Phone Charger,1999,20W USB-C fast wall charger
+57,Anker PowerCore 20000,Anker,Power Bank,Portable Charger,2999,20000mAh power bank with fast charging
+58,Portronics Mport 7C,Portronics,Hub,USB-C Hub,1499,USB-C multiport hub with HDMI and USB ports
+59,Amazon Basics Laptop Stand,Amazon Basics,Laptop Stand,Desk Accessory,999,Adjustable laptop stand
+60,Logitech C920 HD Pro,Logitech,Webcam,Webcam,6999,Full HD webcam with microphone for video calls
+61,Sony PlayStation 5 Slim,Sony,Gaming Console,Console,54999,Gaming console with high speed SSD and 4K support
+62,Xbox Series X,Microsoft,Gaming Console,Console,54999,4K gaming console with high performance hardware
+63,Nintendo Switch OLED,Nintendo,Gaming Console,Handheld Console,34999,Hybrid handheld and home gaming console
+64,Razer BlackShark V2,Razer,Gaming Headset,Gaming Headset,8999,Wired gaming headset with surround sound
+65,LG 7kg Front Load Washing Machine,LG,Washing Machine,Home Appliance,32999,7kg front load washing machine with inverter motor
+66,Samsung 8kg Washing Machine,Samsung,Washing Machine,Home Appliance,35999,8kg front load washing machine with digital inverter
+67,LG 260L Double Door Refrigerator,LG,Refrigerator,Home Appliance,29999,260L frost free double door refrigerator
+68,Philips Air Fryer 4.1L,Philips,Air Fryer,Kitchen Appliance,7999,4.1L digital air fryer for low-oil cooking
+69,Prestige Electric Kettle 1.5L,Prestige,Kettle,Kitchen Appliance,1499,1.5L stainless steel electric kettle
+70,Philips Mixer Grinder 750W,Philips,Mixer Grinder,Kitchen Appliance,3999,750W mixer grinder with multiple jars
+71,Green Soul Monster Gaming Chair,Green Soul,Chair,Gaming Chair,15999,Ergonomic gaming chair with adjustable armrests
+72,Wakefit Study Table,Wakefit,Table,Study Furniture,5999,Compact wooden study table for home and office
+73,Sleepyhead Queen Mattress,Sleepyhead,Mattress,Bedroom,14999,Memory foam queen size mattress
+74,Nike Air Max Running Shoes,Nike,Shoes,Running Shoes,8999,Lightweight running shoes with cushioned sole
+75,Adidas Ultraboost,Adidas,Shoes,Running Shoes,12999,Performance running shoes with responsive cushioning
+76,Levi's 511 Slim Jeans,Levis,Jeans,Mens Fashion,2999,Slim fit denim jeans for everyday wear
+77,Puma Sports T-Shirt,Puma,T-Shirt,Sportswear,1499,Breathable sports t-shirt for workouts
+78,Fastrack Analog Watch,Fastrack,Watch,Fashion Watch,2499,Casual analog wrist watch
+79,Introduction to Algorithms,MIT Press,Book,Computer Science Book,4999,Comprehensive algorithms textbook for computer science students
+80,Clean Code,Robert C Martin,Book,Programming Book,699,Programming book about writing maintainable software
+81,Nike Air Max Running Shoes,Nike,Shoes,Running Shoes,8999,Lightweight running shoes with cushioned sole
+82,Adidas Ultraboost Shoes,Adidas,Shoes,Sports Shoes,12999,Comfortable sports shoes for running and training
+83,Puma Casual Sneakers,Puma,Shoes,Casual Shoes,3999,Stylish casual sneakers for everyday use
+84,Converse Chuck Taylor,Converse,Shoes,Sneakers,4999,Classic canvas sneakers for casual wear
+85,Reebok Training Shoes,Reebok,Shoes,Training Shoes,5499,Comfortable shoes for gym and training
+86,Skechers Walking Shoes,Skechers,Shoes,Walking Shoes,6999,Lightweight shoes for comfortable walking
+87,Zara Casual Dress,Zara,Clothing,Dress,3999,Stylish casual dress for everyday wear
+88,H&M Summer Dress,H&M,Clothing,Summer Dress,1999,Lightweight summer dress for warm weather
+89,Levis Slim Fit Jeans,Levis,Clothing,Jeans,2999,Slim fit denim jeans for casual wear
+90,Adidas Sports T Shirt,Adidas,Clothing,T Shirt,1499,Breathable sports t shirt for workouts
+91,Nike Hoodie,Nike,Clothing,Hoodie,2999,Cotton hoodie for casual and sports wear
+92,Puma Track Pants,Puma,Clothing,Track Pants,1999,Comfortable sports track pants
+93,Allen Solly Formal Shirt,Allen Solly,Clothing,Formal Shirt,2499,Formal shirt for office and professional wear
+94,Van Heusen Formal Trousers,Van Heusen,Clothing,Trousers,2999,Formal trousers for office wear
+95,Biba Kurti,Biba,Clothing,Ethnic Wear,1999,Cotton kurti for casual and traditional wear
+96,Philips 7kg Washing Machine,Philips,Washing Machine,Front Load,29999,7kg washing machine with multiple wash programs
+97,LG 8kg Washing Machine,LG,Washing Machine,Front Load,35999,8kg washing machine with inverter motor
+98,Samsung 7kg Washing Machine,Samsung,Washing Machine,Top Load,24999,7kg fully automatic washing machine
+99,LG 260L Refrigerator,LG,Refrigerator,Double Door,29999,260 litre frost free double door refrigerator
+100,Samsung 253L Refrigerator,Samsung,Refrigerator,Double Door,32999,253 litre frost free refrigerator
+101,Whirlpool 190L Refrigerator,Whirlpool,Refrigerator,Single Door,18999,190 litre energy efficient refrigerator
+102,Philips Air Fryer,Philips,Air Fryer,Kitchen Appliance,7999,4 litre digital air fryer for healthy cooking
+103,Prestige Electric Kettle,Prestige,Kettle,Kitchen Appliance,1499,1.5 litre stainless steel electric kettle
+104,Philips Mixer Grinder,Philips,Mixer Grinder,Kitchen Appliance,3999,750W mixer grinder with multiple jars
+105,Bajaj Room Heater,Bajaj,Room Heater,Home Appliance,2999,2000W room heater for winter use
+106,Philips Steam Iron,Philips,Iron,Steam Iron,2499,Steam iron with adjustable temperature control
+107,LG Microwave Oven,LG,Microwave Oven,Convection,15999,28 litre convection microwave oven
+108,Samsung Microwave Oven,Samsung,Microwave Oven,Grill,12999,23 litre microwave oven with grill function
+109,Voltas Air Conditioner,Voltas,Air Conditioner,Split AC,36999,1.5 ton split air conditioner with inverter
+110,LG Air Conditioner,LG,Air Conditioner,Split AC,41999,1.5 ton inverter split air conditioner
+111,Daikin Air Conditioner,Daikin,Air Conditioner,Inverter AC,44999,1.5 ton inverter air conditioner
+112,Green Soul Gaming Chair,Green Soul,Furniture,Gaming Chair,15999,Ergonomic gaming chair with adjustable armrests
+113,Ikea Study Table,Ikea,Furniture,Study Table,6999,Wooden study table for home and office
+114,Ikea Office Chair,Ikea,Furniture,Office Chair,8999,Ergonomic office chair with adjustable height
+115,Wakefit Queen Mattress,Wakefit,Furniture,Mattress,14999,Memory foam queen size mattress
+116,Ikea Bookshelf,Ikea,Furniture,Bookshelf,5999,Wooden bookshelf with multiple storage shelves
+117,Philips LED Table Lamp,Philips,Lighting,Table Lamp,1299,LED table lamp with adjustable brightness
+118,Wipro Smart LED Bulb,Wipro,Lighting,Smart Bulb,699,Smart LED bulb with adjustable brightness
+119,Syska LED Ceiling Light,Syska,Lighting,Ceiling Light,999,Energy efficient LED ceiling light
+120,Lakme Face Cream,Lakme,Beauty,Face Cream,499,Moisturizing face cream for daily use
+121,Maybelline Lipstick,Maybelline,Beauty,Lipstick,699,Lipstick with long lasting color
+122,Loreal Shampoo,Loreal,Beauty,Shampoo,599,Shampoo for smooth and healthy hair
+123,Nivea Body Lotion,Nivea,Beauty,Body Lotion,399,Moisturizing body lotion for daily use
+124,Adidas Sports Bag,Adidas,Bags,Sports Bag,1999,Sports bag with multiple compartments
+125,Skybags Travel Backpack,Skybags,Bags,Backpack,2499,Durable backpack for travel and college
+126,American Tourister Trolley,American Tourister,Bags,Trolley Bag,5999,Lightweight trolley suitcase for travel
+127,Wildcraft Laptop Backpack,Wildcraft,Bags,Laptop Backpack,2999,Laptop backpack with padded laptop compartment
+128,Decathlon Football,Decathlon,Sports,Football,999,Durable football for outdoor games
+129,SS Cricket Bat,SS,Sports,Cricket Bat,2999,English willow cricket bat for practice
+130,Yonex Badminton Racket,Yonex,Sports,Badminton Racket,1999,Lightweight badminton racket for players
+131,Nike Yoga Mat,Nike,Sports,Yoga Mat,1499,Non slip exercise and yoga mat
+132,Casio Digital Watch,Casio,Watch,Digital Watch,2499,Digital watch with stopwatch and alarm
+133,Fastrack Analog Watch,Fastrack,Watch,Analog Watch,1999,Casual analog watch for everyday use
+134,Ray Ban Sunglasses,Ray Ban,Accessories,Sunglasses,7999,Classic sunglasses with UV protection
+135,Wildcraft Wallet,Wildcraft,Accessories,Wallet,999,Compact wallet with multiple card slots
+136,Milton Water Bottle,Milton,Kitchen,Water Bottle,699,Stainless steel water bottle
+137,Tupperware Lunch Box,Tupperware,Kitchen,Lunch Box,799,Leak proof lunch box for office and school
+138,Prestige Pressure Cooker,Prestige,Kitchen,Pressure Cooker,2499,Stainless steel pressure cooker for home cooking
+139,Amazon Echo Dot,Amazon,Smart Home,Smart Speaker,4499,Smart speaker with voice assistant
+140,TP Link Smart Plug,TP Link,Smart Home,Smart Plug,999,WiFi smart plug for home appliances
