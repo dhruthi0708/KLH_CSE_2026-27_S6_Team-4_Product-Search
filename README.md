@@ -34,7 +34,7 @@ The system also supports requirement-based searches such as **"gaming laptop und
 - **Extension Pack for Java**
 - **Java Swing**
 - **CSV / Text Files**
-- **Windows or Linux**
+- **Windows**
 
 ---
 
@@ -111,12 +111,6 @@ From the project root directory, run:
 javac -d bin src\*.java
 ```
 
-**Linux / macOS:**
-
-```bash
-javac -d bin src/*.java
-```
-
 ### **5. Run the Project**
 
 **Windows / Linux / macOS:**
@@ -178,6 +172,50 @@ The system identifies the product requirements and searches the available produc
 | **IntQueue.java** | **-** | Integer queue data structure |
 | **HashMapStr.java** | **-** | Hash map implementation |
 | **Rand.java** | **-** | Random number utilities |
+
+## GUI Overview
+
+The Product Search and Recommendation System for Shopping is developed using Java Swing to provide a simple and user-friendly graphical interface. The interface allows users to browse products, search based on their requirements, explore recommendations, compare products, and manage their shopping activities.
+
+### 1. Login and Registration
+The authentication interface allows users to log in or register before accessing the shopping application.
+
+### 2. Product Browsing and Category Selection
+The Browse tab displays available products by category. Users can explore the product catalogue, view product information, sort results, navigate between pages, and add products to their cart or wishlist.
+
+### 3. Requirement-Based Product Search
+The Search tab allows users to enter product requirements in natural-language-style queries, such as "gaming laptop under ₹80,000". The system processes the query, searches for relevant products, applies supported price constraints, and displays ranked results.
+
+### 4. Product Details
+Users can select a product to view its available information and evaluate whether it meets their requirements before adding it to the cart or wishlist.
+
+### 5. WHY THIS PRODUCT? Explanation
+The system provides an explanation of product suitability using matching keywords and features, description similarity, category and product-type compatibility, and price or budget suitability. This helps users understand why a product may be relevant to their search.
+
+### 6. Product Recommendations
+The Recommendations tab provides four recommendation options:
+
+- **Best Bundle:** Selects a suitable combination of products within a specified budget using a knapsack-based optimization approach.
+- **Aspect Matching:** Matches user requirements or aspects with suitable products using maximum-flow-based bipartite matching.
+- **Surprise Picks:** Presents a selection of products using randomized recommendation techniques.
+- **Similar Products:** Finds products with similar descriptions, product types, brands, or prices.
+
+### 7. Product Comparison
+The comparison feature allows users to select and compare two to four products side by side to evaluate their available details and prices.
+
+### 8. Wishlist
+The Wishlist feature allows users to manage products they want to save for future consideration.
+
+### 9. Shopping Cart
+The Cart tab displays selected products, quantities, prices, and subtotals. Users can remove items and review the total cost before checkout.
+
+### 10. Checkout Confirmation
+The checkout feature confirms the shopping transaction and records order information using the application's file-based storage.
+
+### 11. Order History and Reordering
+The Orders tab displays previous order records and provides a reorder option to help users repeat previous purchases.
+
+Overall, the Java Swing GUI integrates product browsing, requirement-based search, explainable recommendations, product comparison, wishlist management, shopping cart operations, checkout, and order history into a single shopping application.
 
 ---
 
